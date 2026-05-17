@@ -15,18 +15,19 @@ inventory = ["weapon", "potion", "coins", "garbage", "armor"]
 
 # Task 3: You aquired a grimoire. Add "grimoire" to the list using the "append" function.
 # TO DO
+inventory.append (grimore)
 print(inventory)
-
 # Task 4: You exchanged your coins for some candy. Replace "coins" with "candy".
 # TO DO
+inventory[2] = "candy"
 print(inventory)
-
 # Task 5: You threw away the garbage. Remove "garbage" from the list using the "remove" function.
 # TO DO
+inventory.remove("garabage")
 print(inventory)
-
 # Task 6: You consumed the potion. Remove "potion" from the list using the "pop" function.
 # TO DO
+inventory.pop[1]
 print(inventory)
 
 
