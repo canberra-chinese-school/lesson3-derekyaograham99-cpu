@@ -27,7 +27,7 @@ inventory.remove("garabage")
 print(inventory)
 # Task 6: You consumed the potion. Remove "potion" from the list using the "pop" function.
 # TO DO
-inventory.pop[1]
+inventory.pop(1)
 print(inventory)
 
 
