@@ -7,7 +7,7 @@ names = ["Alex", "Jake", "Bryan", "Tony"]
 print(name[1])  # TO DO
 
 # Task 2: In the same list, change "Tony" to "Lily". Then print the list
-name[3] = Lily
+name[3] = "Lily"
 print()  # TO DO
 
 
